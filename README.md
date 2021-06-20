@@ -1,7 +1,5 @@
-# Freagra Emergency Response Coordinator Web Application
+# Freagra Web Application
 
-## To run app
-First go into the project diary and run  `npm install`
 ### `npm start`
 Next to start the app, run `npm start`
 Runs the app in the development mode.\
